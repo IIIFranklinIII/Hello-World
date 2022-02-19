@@ -1,2 +1,1 @@
-# firstProject
-let's start!)
+Hello world , this is my first GitHub repository.
