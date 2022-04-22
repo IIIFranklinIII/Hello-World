@@ -1,1 +1,1 @@
-Hello world , this is my first GitHub repository.
+Hello world, this is my first GitHub repository.
